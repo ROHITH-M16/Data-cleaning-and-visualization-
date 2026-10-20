@@ -1,0 +1,105 @@
+Patient ID,Patient Age,Gender,Systolic BP,Cholesterol (mg/dL),Smoker Status,BMI,Outcome
+PAT-7000,45.0,Female,,200.0,no,31.2,nan
+PAT-7001,18.0,Male,140.0,220.0,Yes,,High Risk
+PAT-7002,34.0, F ,130.0,310.0,No,18.5,High Risk
+PAT-7003,62.0, M ,120.0,200.0,nan,45.0,Medium Risk
+PAT-7004,200.0,Male,140.0,220.0,No,,nan
+PAT-7005,62.0, F ,300.0,200.0,Yes,31.2,High Risk
+PAT-7006,45.0,Male,120.0,,nan,31.2,Medium Risk
+PAT-7007,62.0,Male,120.0,310.0,No,45.0,nan
+PAT-7008,18.0, M ,110.0,180.0,yes,31.2,Low Risk
+PAT-7009,18.0,nan,160.0,180.0,Yes,31.2,High Risk
+PAT-7010,,nan,140.0,220.0,Yes,31.2,Low Risk
+PAT-7011,45.0,Male,120.0,240.0,Yes,99.9,nan
+PAT-7012,,Female,110.0,,yes,,High Risk
+PAT-7013,45.0, F ,300.0,220.0,yes,22.1,nan
+PAT-7014,200.0,Female,130.0,240.0,no,,Low Risk
+PAT-7015,200.0,Female,,200.0,No,45.0,High Risk
+PAT-7016,78.0,Male,,,no,31.2,Low Risk
+PAT-7017,45.0,Male,140.0,200.0,No,,nan
+PAT-7018,34.0,Male,120.0,310.0,yes,99.9,nan
+PAT-7019,62.0,Male,,,yes,45.0,Low Risk
+PAT-7020,45.0,nan,160.0,240.0,no,26.4,High Risk
+PAT-7021,25.0,Male,,310.0,nan,,Low Risk
+PAT-7022,78.0,nan,,180.0,no,26.4,nan
+PAT-7023,25.0,nan,,240.0,No,31.2,Low Risk
+PAT-7024,18.0,Male,110.0,220.0,no,99.9,nan
+PAT-7025,200.0, M ,120.0,180.0,Yes,99.9,Low Risk
+PAT-7026,62.0, F ,160.0,180.0,No,,High Risk
+PAT-7027,45.0,Female,120.0,220.0,No,45.0,High Risk
+PAT-7028,25.0,nan,140.0,,nan,45.0,Low Risk
+PAT-7029,62.0, F ,140.0,180.0,yes,99.9,Low Risk
+PAT-7030,18.0, M ,140.0,240.0,No,45.0,High Risk
+PAT-7031,200.0,Female,300.0,310.0,yes,99.9,nan
+PAT-7032,34.0,Female,,180.0,no,,High Risk
+PAT-7033,78.0,nan,300.0,240.0,Yes,22.1,nan
+PAT-7034,62.0,Male,110.0,200.0,nan,99.9,Low Risk
+PAT-7035,62.0, M ,140.0,240.0,yes,26.4,Low Risk
+PAT-7036,34.0,nan,160.0,310.0,No,45.0,nan
+PAT-7037,62.0, M ,120.0,240.0,yes,99.9,Low Risk
+PAT-7038,18.0,Male,,220.0,No,99.9,nan
+PAT-7039,18.0,Male,130.0,310.0,yes,,Medium Risk
+PAT-7040,34.0,nan,160.0,,No,45.0,High Risk
+PAT-7041,78.0,Male,,200.0,no,22.1,Medium Risk
+PAT-7042,45.0, F ,300.0,220.0,No,,nan
+PAT-7043,25.0,Female,300.0,,No,22.1,High Risk
+PAT-7044,45.0,nan,160.0,240.0,Yes,,nan
+PAT-7045,62.0, M ,300.0,310.0,No,45.0,High Risk
+PAT-7046,25.0, F ,140.0,200.0,Yes,18.5,High Risk
+PAT-7047,,nan,110.0,220.0,nan,45.0,High Risk
+PAT-7048,34.0,Male,120.0,,Yes,45.0,High Risk
+PAT-7049,34.0,Male,110.0,,no,22.1,nan
+PAT-7050,78.0,Male,,200.0,Yes,22.1,High Risk
+PAT-7051,25.0,Male,120.0,240.0,nan,45.0,High Risk
+PAT-7052,18.0, M ,120.0,200.0,no,45.0,Medium Risk
+PAT-7053,25.0, F ,110.0,,yes,45.0,Low Risk
+PAT-7054,62.0,Female,160.0,180.0,yes,22.1,Low Risk
+PAT-7055,18.0, M ,120.0,220.0,Yes,45.0,Medium Risk
+PAT-7056,200.0, M ,110.0,200.0,Yes,45.0,Medium Risk
+PAT-7057,200.0,Female,120.0,,nan,31.2,nan
+PAT-7058,,Female,130.0,240.0,nan,18.5,nan
+PAT-7059,200.0,Male,160.0,,No,26.4,nan
+PAT-7060,34.0, M ,140.0,240.0,nan,18.5,Medium Risk
+PAT-7061,25.0,nan,120.0,200.0,No,31.2,Medium Risk
+PAT-7062,200.0,Female,130.0,240.0,no,26.4,High Risk
+PAT-7063,45.0,Female,140.0,310.0,Yes,,nan
+PAT-7064,78.0, F ,140.0,310.0,no,45.0,nan
+PAT-7065,45.0,nan,,310.0,nan,31.2,nan
+PAT-7066,200.0,nan,120.0,180.0,no,,Low Risk
+PAT-7067,,Female,110.0,200.0,no,45.0,High Risk
+PAT-7068,78.0,Male,120.0,,no,22.1,nan
+PAT-7069,62.0, F ,130.0,,nan,99.9,nan
+PAT-7070,45.0,nan,140.0,180.0,no,31.2,nan
+PAT-7071,,Female,120.0,240.0,No,22.1,Low Risk
+PAT-7072,25.0,nan,110.0,180.0,nan,31.2,Low Risk
+PAT-7073,25.0, F ,,240.0,no,31.2,Medium Risk
+PAT-7074,45.0, F ,120.0,240.0,nan,22.1,High Risk
+PAT-7075,200.0, M ,160.0,220.0,yes,26.4,Medium Risk
+PAT-7076,,Female,,,No,18.5,High Risk
+PAT-7077,25.0, F ,110.0,310.0,no,45.0,Low Risk
+PAT-7078,62.0, M ,130.0,240.0,yes,31.2,nan
+PAT-7079,18.0, M ,140.0,220.0,yes,45.0,Medium Risk
+PAT-7080,200.0,nan,120.0,,nan,99.9,nan
+PAT-7081,,nan,110.0,310.0,yes,22.1,Medium Risk
+PAT-7082,62.0, M ,,240.0,No,45.0,Low Risk
+PAT-7083,,nan,160.0,240.0,No,22.1,Low Risk
+PAT-7084,78.0, F ,110.0,180.0,Yes,45.0,Low Risk
+PAT-7085,62.0,Male,300.0,180.0,No,18.5,Medium Risk
+PAT-7086,200.0, F ,160.0,,yes,18.5,High Risk
+PAT-7087,78.0, M ,,310.0,No,18.5,Medium Risk
+PAT-7088,200.0, M ,130.0,240.0,nan,18.5,High Risk
+PAT-7089,25.0, F ,140.0,,Yes,18.5,Medium Risk
+PAT-7090,18.0,nan,,,yes,18.5,Medium Risk
+PAT-7091,200.0,nan,130.0,200.0,Yes,22.1,Low Risk
+PAT-7092,200.0, M ,120.0,180.0,yes,31.2,nan
+PAT-7093,25.0,Female,110.0,310.0,nan,45.0,nan
+PAT-7094,34.0,nan,300.0,240.0,Yes,18.5,High Risk
+PAT-7095,25.0, F ,160.0,,no,22.1,nan
+PAT-7096,78.0,nan,160.0,240.0,yes,22.1,Medium Risk
+PAT-7097,25.0, F ,110.0,200.0,no,22.1,Medium Risk
+PAT-7098,25.0, M ,300.0,310.0,Yes,31.2,Low Risk
+PAT-7099,18.0,nan,110.0,,no,45.0,Low Risk
+PAT-7000,45.0,Female,,200.0,no,31.2,nan
+PAT-7001,18.0,Male,140.0,220.0,Yes,,High Risk
+PAT-7002,34.0, F ,130.0,310.0,No,18.5,High Risk
+PAT-7003,62.0, M ,120.0,200.0,nan,45.0,Medium Risk

@@ -1,0 +1,156 @@
+ Order_ID ,Customer Name,Product Category, Unit Price ($) ,Quantity Ordered,Discount Rate,Payment Method,Order Date,Customer Rating,Shipping Region
+ORD-1000,Diana Prince,Books,,10.0,0.15,Debit Card,2023-02-20,5.0,West
+ORD-1001, Evan Wright ,Books,15.5,1.0,,PayPal,nan,,nan
+ORD-1002,Charlie Brown,Clothing,120.0,,1.5,PayPal,2023-03-12,,South
+ORD-1003, Evan Wright ,Books,15.5,10.0,0.05,Debit Card,2023-03-12,4.0,South
+ORD-1004, Evan Wright ,Home & Kitchen,1200.0,5.0,0.2,Debit Card,2023-02-20,, north 
+ORD-1005,BOB JOHNSON,Books,45.0,5.0,0.1,nan,invalid_date,3.0,East
+ORD-1006,Charlie Brown,Clothing,,5.0,0.05,nan,2023-01-15,,South
+ORD-1007,Charlie Brown,Clothing,45.0,10.0,0.1,PayPal,nan,,North
+ORD-1008,Charlie Brown,nan,45.0,50.0,, Cash ,2023-01-15,,nan
+ORD-1009, Evan Wright ,Home & Kitchen,,5.0,0.0,PayPal,invalid_date,1.0,nan
+ORD-1010,Diana Prince, electronics ,120.0,-5.0,0.05, Cash ,nan,3.0, north 
+ORD-1011,Charlie Brown, electronics ,1200.0,10.0,0.2, Cash ,2023-02-20,3.0,West
+ORD-1012,,Books,15.5,,0.05,nan,2023-03-12,5.0, north 
+ORD-1013, Evan Wright ,nan,499.99,5.0,0.05,Credit Card,2023-01-15,4.0,West
+ORD-1014,BOB JOHNSON,Electronics,15.5,-5.0,0.05,Credit Card,2023-05-18,, north 
+ORD-1015,Diana Prince,Books,499.99,50.0,1.5,Debit Card,2023-05-18,2.0, north 
+ORD-1016,,nan,15.5,3.0,0.05,nan,invalid_date,4.0, north 
+ORD-1017,,Home & Kitchen,,50.0,0.1, Cash ,2023-02-20,4.0,West
+ORD-1018,BOB JOHNSON,Home & Kitchen,1200.0,,0.0,Credit Card,2023-01-15,3.0,West
+ORD-1019,Diana Prince,Home & Kitchen,499.99,5.0,, Cash ,2023-02-20,4.0, north 
+ORD-1020, Evan Wright ,Home & Kitchen,9999.0,,0.15,Credit Card,2023-01-15,,South
+ORD-1021, Alice Smith ,Home & Kitchen,120.0,10.0,0.05,Credit Card,invalid_date,,East
+ORD-1022,Diana Prince,nan,15.5,2.0,0.2,Credit Card,invalid_date,1.0,East
+ORD-1023,BOB JOHNSON,nan,15.5,5.0,0.05,nan,2023-05-18,,East
+ORD-1024,,Clothing,499.99,2.0,0.2,PayPal,2023-02-20,,West
+ORD-1025, Evan Wright , electronics ,120.0,-5.0,0.1, Cash ,nan,3.0,West
+ORD-1026,Diana Prince,Home & Kitchen,120.0,3.0,0.2,nan,2023-05-18,,South
+ORD-1027, Alice Smith ,Electronics,,1.0,0.15,nan,2023-02-20,1.0,East
+ORD-1028, Alice Smith ,nan,9999.0,,0.0,nan,2023-05-18,2.0,East
+ORD-1029,Charlie Brown,Electronics,,50.0,0.2,nan,nan,3.0, north 
+ORD-1030,Charlie Brown,Electronics,,3.0,0.2,nan,2023-03-12,2.0,West
+ORD-1031,BOB JOHNSON,Electronics,,5.0,0.0,Debit Card,2023-03-12,3.0,East
+ORD-1032,Diana Prince,Clothing,,2.0,0.15, Cash ,2023-03-12,5.0,nan
+ORD-1033,Diana Prince,nan,,50.0,0.05,nan,2023-03-12,4.0,South
+ORD-1034,,Electronics,1200.0,2.0,0.2, Cash ,2023-01-15,5.0,nan
+ORD-1035,,Home & Kitchen,120.0,10.0,0.0,Debit Card,2023-03-12,,nan
+ORD-1036,,Books,,2.0,0.1,Debit Card,nan,2.0,South
+ORD-1037,Charlie Brown,Electronics,120.0,10.0,0.0, Cash ,invalid_date,,nan
+ORD-1038,Diana Prince,Clothing,120.0,-5.0,0.1,Credit Card,invalid_date,4.0,East
+ORD-1039,Diana Prince,nan,45.0,50.0,0.15,PayPal,2023-01-15,3.0,West
+ORD-1040, Alice Smith ,Clothing,1200.0,50.0,0.05,Credit Card,2023-03-12,4.0,South
+ORD-1041,Charlie Brown,Electronics,,1.0,0.0,Credit Card,2023-03-12,1.0, north 
+ORD-1042, Evan Wright ,nan,15.5,5.0,,Credit Card,2023-03-12,4.0,nan
+ORD-1043,Charlie Brown,Books,499.99,10.0,,nan,2023-05-18,1.0,South
+ORD-1044, Evan Wright ,Electronics,9999.0,1.0,1.5,Debit Card,2023-02-20,4.0,North
+ORD-1045, Alice Smith ,Clothing,15.5,2.0,0.2,Credit Card,2023-05-18,1.0,North
+ORD-1046,BOB JOHNSON, electronics ,1200.0,2.0,0.15,Debit Card,2023-02-20,2.0,West
+ORD-1047,Diana Prince,Home & Kitchen,499.99,1.0,0.0, Cash ,2023-03-12,,East
+ORD-1048, Alice Smith ,Clothing,1200.0,50.0,,PayPal,2023-03-12,,West
+ORD-1049,Diana Prince,nan,120.0,2.0,0.2, Cash ,2023-05-18,5.0,West
+ORD-1050,,Electronics,499.99,,, Cash ,2023-05-18,,West
+ORD-1051,BOB JOHNSON,Home & Kitchen,120.0,-5.0,0.0,nan,2023-02-20,3.0,West
+ORD-1052,BOB JOHNSON,Electronics,15.5,-5.0,0.1,PayPal,invalid_date,4.0, north 
+ORD-1053, Alice Smith ,nan,15.5,,0.0, Cash ,2023-02-20,5.0, north 
+ORD-1054,BOB JOHNSON,Electronics,499.99,1.0,1.5, Cash ,2023-05-18,3.0,South
+ORD-1055, Evan Wright , electronics ,499.99,,0.0,PayPal,nan,3.0,North
+ORD-1056,BOB JOHNSON,Home & Kitchen,,10.0,0.0,PayPal,2023-05-18,1.0,West
+ORD-1057,Diana Prince,Home & Kitchen,1200.0,10.0,1.5, Cash ,nan,,South
+ORD-1058,Diana Prince,nan,,1.0,0.15,PayPal,2023-01-15,2.0,North
+ORD-1059,Diana Prince, electronics ,1200.0,,0.0, Cash ,2023-05-18,2.0,nan
+ORD-1060,Diana Prince,Clothing,,10.0,1.5, Cash ,2023-01-15,5.0,East
+ORD-1061, Evan Wright ,Electronics,120.0,50.0,0.2,nan,invalid_date,2.0, north 
+ORD-1062,Charlie Brown,Books,499.99,,0.1,Credit Card,2023-02-20,4.0,nan
+ORD-1063,,Electronics,15.5,50.0,0.1, Cash ,nan,2.0,North
+ORD-1064, Alice Smith ,Electronics,1200.0,10.0,0.0,Debit Card,2023-02-20,5.0,nan
+ORD-1065,Diana Prince,Clothing,1200.0,-5.0,0.15,Credit Card,2023-01-15,2.0,East
+ORD-1066,BOB JOHNSON,Electronics,15.5,10.0,0.15,Credit Card,nan,4.0,North
+ORD-1067,Diana Prince, electronics ,,50.0,0.2,Credit Card,2023-02-20,1.0,nan
+ORD-1068,BOB JOHNSON, electronics ,1200.0,3.0,0.0,nan,2023-05-18,5.0, north 
+ORD-1069,,Home & Kitchen,9999.0,5.0,0.1, Cash ,2023-03-12,1.0, north 
+ORD-1070,,nan,120.0,2.0,0.15,nan,2023-01-15,1.0,South
+ORD-1071,,Books,499.99,,0.0, Cash ,2023-02-20,1.0,nan
+ORD-1072,BOB JOHNSON,Electronics,15.5,3.0,,nan,2023-01-15,3.0,West
+ORD-1073,Diana Prince,Electronics,499.99,10.0,0.15,nan,2023-01-15,,nan
+ORD-1074,,Clothing,9999.0,-5.0,1.5,Debit Card,nan,3.0,North
+ORD-1075, Evan Wright ,nan,1200.0,1.0,,nan,nan,,North
+ORD-1076,BOB JOHNSON, electronics ,1200.0,10.0,0.15,PayPal,2023-03-12,1.0,nan
+ORD-1077,BOB JOHNSON,Books,9999.0,-5.0,0.1,Debit Card,2023-05-18,5.0,East
+ORD-1078,Diana Prince,Home & Kitchen,15.5,5.0,0.05,nan,2023-01-15,, north 
+ORD-1079,BOB JOHNSON, electronics ,120.0,10.0,,Credit Card,2023-02-20,4.0,North
+ORD-1080,BOB JOHNSON,nan,45.0,50.0,0.2,PayPal,invalid_date,4.0, north 
+ORD-1081,,Home & Kitchen,15.5,1.0,0.2,PayPal,2023-01-15,2.0,North
+ORD-1082,Diana Prince,Clothing,45.0,-5.0,0.1,PayPal,2023-01-15,,South
+ORD-1083,,Clothing,9999.0,-5.0,0.15,Debit Card,2023-03-12,5.0,West
+ORD-1084,,Electronics,,-5.0,0.0,nan,2023-05-18,3.0,North
+ORD-1085,Diana Prince,nan,45.0,5.0,0.15,nan,invalid_date,1.0, north 
+ORD-1086, Alice Smith ,Books,120.0,10.0,0.1,Credit Card,nan,2.0,South
+ORD-1087,,Home & Kitchen,,5.0,0.2,Credit Card,nan,4.0,North
+ORD-1088, Evan Wright , electronics ,45.0,,0.15,PayPal,2023-02-20,3.0,East
+ORD-1089, Evan Wright ,nan,9999.0,2.0,0.2,Credit Card,invalid_date,3.0,West
+ORD-1090,BOB JOHNSON,nan,,2.0,,Debit Card,nan,1.0,North
+ORD-1091, Evan Wright ,Clothing,9999.0,,0.0,nan,2023-02-20,,South
+ORD-1092,BOB JOHNSON,Electronics,45.0,10.0,,PayPal,2023-05-18,4.0,East
+ORD-1093, Alice Smith ,Electronics,9999.0,50.0,0.2,Credit Card,2023-02-20,5.0,nan
+ORD-1094,Diana Prince,Home & Kitchen,120.0,5.0,0.2,Debit Card,nan,3.0,South
+ORD-1095,Diana Prince,Clothing,45.0,1.0,0.05,Debit Card,2023-03-12,1.0,South
+ORD-1096,Diana Prince,nan,45.0,-5.0,0.05,Credit Card,2023-03-12,5.0,East
+ORD-1097, Evan Wright ,Books,45.0,-5.0,,nan,2023-03-12,,South
+ORD-1098, Alice Smith ,Clothing,15.5,10.0,1.5,Credit Card,nan,4.0,East
+ORD-1099, Evan Wright ,Home & Kitchen,15.5,50.0,,PayPal,2023-03-12,,North
+ORD-1100, Evan Wright ,Home & Kitchen,15.5,2.0,0.05,Credit Card,invalid_date,3.0,East
+ORD-1101, Alice Smith ,Clothing,120.0,2.0,0.2,Debit Card,2023-05-18,5.0,East
+ORD-1102, Alice Smith ,Home & Kitchen,,-5.0,0.1,Credit Card,2023-02-20,5.0,West
+ORD-1103, Alice Smith ,Clothing,9999.0,10.0,,nan,2023-02-20,5.0,East
+ORD-1104, Alice Smith , electronics ,1200.0,5.0,0.2, Cash ,nan,3.0,East
+ORD-1105,Diana Prince,Clothing,45.0,2.0,0.1,Credit Card,2023-03-12,3.0,nan
+ORD-1106,Charlie Brown,Clothing,9999.0,5.0,0.1,nan,2023-03-12,,North
+ORD-1107,Charlie Brown,Home & Kitchen,45.0,50.0,0.05,nan,2023-01-15,2.0,West
+ORD-1108, Alice Smith ,Home & Kitchen,120.0,2.0,,Debit Card,2023-05-18,,nan
+ORD-1109,Charlie Brown,Electronics,45.0,2.0,0.15,nan,invalid_date,4.0, north 
+ORD-1110,Charlie Brown,Electronics,15.5,3.0,0.0,nan,2023-02-20,1.0,North
+ORD-1111, Alice Smith , electronics ,1200.0,2.0,0.05,nan,2023-01-15,5.0,North
+ORD-1112,Charlie Brown,Electronics,499.99,,0.05,nan,2023-01-15,2.0, north 
+ORD-1113, Evan Wright ,Clothing,45.0,1.0,0.15,PayPal,nan,1.0,East
+ORD-1114,BOB JOHNSON,Home & Kitchen,9999.0,,0.0,PayPal,2023-02-20,2.0,nan
+ORD-1115,BOB JOHNSON,Electronics,15.5,10.0,0.2,Debit Card,nan,,South
+ORD-1116, Alice Smith ,Electronics,499.99,10.0,1.5,Credit Card,invalid_date,3.0,West
+ORD-1117,Diana Prince, electronics ,1200.0,5.0,,nan,2023-01-15,5.0,South
+ORD-1118, Alice Smith ,nan,499.99,,1.5,Credit Card,2023-01-15,, north 
+ORD-1119,Diana Prince, electronics ,15.5,,0.2,Credit Card,2023-05-18,1.0,North
+ORD-1120,BOB JOHNSON,Clothing,,,0.05,Debit Card,invalid_date,1.0,North
+ORD-1121, Alice Smith ,Home & Kitchen,,50.0,0.0,nan,2023-01-15,1.0,West
+ORD-1122,, electronics ,499.99,2.0,0.05,nan,invalid_date,1.0,North
+ORD-1123, Evan Wright ,Electronics,120.0,1.0,0.1, Cash ,2023-02-20,1.0,North
+ORD-1124,Charlie Brown,Home & Kitchen,9999.0,5.0,0.05,Credit Card,2023-03-12,2.0,West
+ORD-1125,Diana Prince,Home & Kitchen,9999.0,,0.05,Credit Card,2023-01-15,,nan
+ORD-1126,,Electronics,499.99,,0.2,PayPal,2023-05-18,5.0,nan
+ORD-1127,Charlie Brown, electronics ,45.0,3.0,0.2, Cash ,2023-02-20,3.0,West
+ORD-1128,Charlie Brown,Electronics,45.0,5.0,0.2,PayPal,invalid_date,3.0, north 
+ORD-1129, Alice Smith ,nan,9999.0,,1.5,PayPal,nan,,North
+ORD-1130,Charlie Brown,Home & Kitchen,9999.0,5.0,0.1,PayPal,2023-02-20,,North
+ORD-1131, Evan Wright ,Books,,2.0,0.2,Debit Card,2023-01-15,3.0, north 
+ORD-1132,,Books,120.0,3.0,0.0,Debit Card,invalid_date,3.0,nan
+ORD-1133,Charlie Brown,Clothing,15.5,5.0,1.5,PayPal,2023-03-12,2.0,East
+ORD-1134, Alice Smith ,Electronics,45.0,1.0,0.15, Cash ,2023-02-20,4.0,East
+ORD-1135, Evan Wright ,Electronics,9999.0,1.0,0.0,Credit Card,2023-01-15,5.0,East
+ORD-1136,BOB JOHNSON,Clothing,,10.0,, Cash ,2023-05-18,1.0,nan
+ORD-1137,,Clothing,1200.0,3.0,,nan,nan,4.0,nan
+ORD-1138,Charlie Brown,Clothing,,3.0,0.0,Debit Card,invalid_date,, north 
+ORD-1139, Alice Smith ,Home & Kitchen,45.0,10.0,0.2,Credit Card,2023-02-20,3.0,North
+ORD-1000,BOB JOHNSON,nan,45.0,5.0,0.15,Credit Card,2023-02-20,4.0, north 
+ORD-1001,BOB JOHNSON,Electronics,,3.0,0.15,nan,2023-03-12,5.0, north 
+ORD-1002,Diana Prince,Home & Kitchen,15.5,1.0,1.5,nan,2023-03-12,,nan
+ORD-1003, Evan Wright ,Clothing,499.99,1.0,0.15,PayPal,2023-05-18,1.0,East
+ORD-1004,Charlie Brown,Electronics,45.0,,,Debit Card,nan,1.0,South
+ORD-1005, Alice Smith ,Home & Kitchen,,2.0,0.1,Debit Card,2023-05-18,5.0,North
+ORD-1006,Diana Prince,nan,9999.0,3.0,0.2, Cash ,2023-01-15,5.0,nan
+ORD-1007, Evan Wright ,Home & Kitchen,,5.0,0.15,PayPal,2023-01-15,3.0,East
+ORD-1008,Diana Prince,nan,120.0,10.0,1.5,PayPal,2023-05-18,1.0,South
+ORD-1009,,Clothing,499.99,10.0,,PayPal,nan,,South
+ORD-1000,Diana Prince,Books,,10.0,0.15,Debit Card,2023-02-20,5.0,West
+ORD-1001, Evan Wright ,Books,15.5,1.0,,PayPal,nan,,nan
+ORD-1002,Charlie Brown,Clothing,120.0,,1.5,PayPal,2023-03-12,,South
+ORD-1003, Evan Wright ,Books,15.5,10.0,0.05,Debit Card,2023-03-12,4.0,South
+ORD-1004, Evan Wright ,Home & Kitchen,1200.0,5.0,0.2,Debit Card,2023-02-20,, north 
